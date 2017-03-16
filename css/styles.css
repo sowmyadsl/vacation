@@ -1,0 +1,11 @@
+
+#jumbo-img {
+  width: 100%;
+}
+.jumbotron {
+  padding: 0;
+  /*max-height: 800px;*/
+}
+.col-md-4 img{
+  width: 100%;
+}
